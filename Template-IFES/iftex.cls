@@ -38,6 +38,7 @@
 \usepackage{graphicx}		    	% Inclusão de gráficos
 \usepackage{microtype} 		    	% Para melhorias de justificação
 \usepackage{tabularx}               % Para tabelas
+\usepackage{multirow}
 
 % Ref
 \usepackage[brazilian,hyperpageref]{backref}
