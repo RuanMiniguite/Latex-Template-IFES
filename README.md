@@ -87,7 +87,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- ============== LINKs ============== -->
 <!-- Alterar link -->
-[Site-link]: https://github.com/RuanMiniguite/Latex-Template-IFES/raw/main/Template-IFES.zip
+[Site-link]: https://github.com/RuanMiniguite/Latex-Template-IFES/raw/main/Template-IFES-v1.zip
 [GitHub License-link]: https://github.com/RuanMiniguite/Latex-Template-IFES/blob/ddd58c00aa4ae081efcb1b43f7cd6c83b6d9630d/LICENSE
 
 <!-- Alterar caminho para repositorio [Template-Readme] -->
