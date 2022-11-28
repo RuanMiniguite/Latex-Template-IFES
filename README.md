@@ -3,13 +3,13 @@
     V. 2.2 
 -->
 
-<div align="center">
-
-## Template Latex TCC
-
-###### Base template for TCC 2017
-
+<div align="center" id="header">
+  <a href="https://github.com/RuanMiniguite"><img src="/assets/Ifes02.png" alt="Logo" width="450"></a>
+  
+  <h3>Template Latex TCC</h3>
+  <p>Base template for TCC 2017e</p>
 </div>
+
 
 ---
 
